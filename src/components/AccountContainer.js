@@ -37,7 +37,10 @@ function AccountContainer() {
         setTransactions={setTransactions}
         getTransactions={getTransactions}
       />
-      <TransactionsList transactions={transactions} />
+      <TransactionsList
+        transactions={transactions}
+        setTransactions={setTransactions}
+      />
     </div>
   );
 }

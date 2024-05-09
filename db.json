@@ -76,28 +76,6 @@
       "description": "MTA Vending Machine: MetroCard",
       "category": "Transportation",
       "amount": -116.39
-    },
-    {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
-    },
-
-    {
-      "date": "2019-12-01",
-      "description": "xxx",
-      "category": "Income",
-      "amount": 1000,
-      "id": 14
-    },
-    {
-      "date": "2024-05-02",
-      "description": "good",
-      "category": "bruh",
-      "amount": "400",
-      "id": 15
     }
   ]
 }
