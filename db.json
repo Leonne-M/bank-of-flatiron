@@ -76,6 +76,13 @@
       "description": "MTA Vending Machine: MetroCard",
       "category": "Transportation",
       "amount": -116.39
+    },
+    {
+      "date": "2024-05-16",
+      "description": "burgers",
+      "category": "food",
+      "amount": "800",
+      "id": 12
     }
   ]
 }
